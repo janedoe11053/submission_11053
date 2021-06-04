@@ -1,0 +1,14 @@
+Feature_Idx,Feature_Name,Value
+0,age,-0.22189538422842398
+1,workclass,0.0
+2,education,0.0
+3,education_num,0.0
+4,marital_status,0.0
+5,occupation,0.0
+6,relationship,-0.14403643941076977
+7,race,0.0
+8,sex,0.0
+9,capital_gain,0.0
+10,capital_loss,0.0
+11,hours_per_week,0.0
+12,native_country,0.0
